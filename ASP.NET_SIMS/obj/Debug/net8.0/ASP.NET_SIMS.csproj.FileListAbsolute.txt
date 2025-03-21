@@ -1,0 +1,511 @@
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\appsettings.Development.json
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\appsettings.json
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.staticwebassets.runtime.json
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.exe
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.deps.json
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.runtimeconfig.json
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.pdb
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.AssemblyInfoInputs.cache
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.AssemblyInfo.cs
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.csproj.CoreCompileInputs.cache
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.MvcApplicationPartsAssemblyInfo.cache
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.RazorAssemblyInfo.cache
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.RazorAssemblyInfo.cs
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets.build.json
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets.development.json
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET_SIMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET_SIMS.props
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET_SIMS.props
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET_SIMS.props
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets.pack.json
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\scopedcss\bundle\ASP.NET_SIMS.styles.css
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\scopedcss\projectbundle\ASP.NET_SIMS.bundle.scp.css
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\refint\ASP.NET_SIMS.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.pdb
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.genruntimeconfig.cache
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ref\ASP.NET_SIMS.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Azure.Core.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Azure.Identity.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\FluentAssertions.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Humanizer.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.ClientModel.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.CodeDom.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Memory.Data.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Text.Json.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.csproj.AssemblyReference.cache
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_.DC69A0D9.Up2Date
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\appsettings.json
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.staticwebassets.runtime.json
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.exe
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.deps.json
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.runtimeconfig.json
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.pdb
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET_SIMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET_SIMS.props
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET_SIMS.props
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET_SIMS.props
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\scopedcss\bundle\ASP.NET_SIMS.styles.css
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\scopedcss\projectbundle\ASP.NET_SIMS.bundle.scp.css
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_.DC69A0D9.Up2Date
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\refint\ASP.NET_SIMS.dll
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.pdb
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ref\ASP.NET_SIMS.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\appsettings.Development.json
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\appsettings.json
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.staticwebassets.runtime.json
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.staticwebassets.endpoints.json
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.exe
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.deps.json
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.runtimeconfig.json
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.pdb
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Azure.Core.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Azure.Identity.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\FluentAssertions.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Humanizer.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.ClientModel.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.CodeDom.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Text.Json.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.csproj.AssemblyReference.cache
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.AssemblyInfoInputs.cache
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.AssemblyInfo.cs
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.csproj.CoreCompileInputs.cache
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.MvcApplicationPartsAssemblyInfo.cache
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.RazorAssemblyInfo.cache
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.RazorAssemblyInfo.cs
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\scopedcss\bundle\ASP.NET_SIMS.styles.css
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\scopedcss\projectbundle\ASP.NET_SIMS.bundle.scp.css
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets.build.json
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets.development.json
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET_SIMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET_SIMS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET_SIMS.props
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET_SIMS.props
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET_SIMS.props
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_.DC69A0D9.Up2Date
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\refint\ASP.NET_SIMS.dll
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.pdb
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.genruntimeconfig.cache
+D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ref\ASP.NET_SIMS.dll

@@ -1,0 +1,49 @@
+﻿@model List<ASP.NET_SIMS.Models.StudentCourse>
+
+@{
+    ViewData["Title"] = "Khóa học của tôi";
+}
+<div class="mb-3">
+    <a asp-action="MyCourse" asp-controller="Student" class="btn btn-primary">Xem Khóa Học</a>
+    <a asp-action="Grade" asp-controller="Student" class="btn btn-secondary">Xem Điểm số</a>
+    <a asp-action="Login" asp-controller="Account" class="btn btn-info">Logout</a>
+</div>
+
+<h2 class="mb-4">Khóa học của tôi</h2>
+<div class="container mt-4">
+
+    @if (!Model.Any())
+    {
+        <p class="alert alert-warning text-start">@ViewBag.Message</p>
+    }
+    else
+    {
+        <table class="table table-bordered table-hover table-striped">
+            <thead class="table-dark text-center">
+                <tr>
+                    <th>Tên khóa học</th>
+                    <th>Mô tả</th>
+                    <th>Số tín chỉ</th>
+                    <th>Ngày đăng ký</th>
+                    <th>Trạng thái</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var sc in Model)
+                {
+                    <tr class="text-center">
+                        <td>@sc.Course.CourseName</td>
+                        <td>@sc.Course.Description</td>
+                        <td>@sc.Course.Credits</td>
+                        <td>@sc.EnrollmentDate.ToString("dd/MM/yyyy")</td>
+                        <td>
+                            <span class="badge @(sc.Status == "Active" ? "bg-success" : "bg-warning")">
+                                @sc.Status
+                            </span>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

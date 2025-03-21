@@ -1,0 +1,58 @@
+﻿@model ASP.NET_SIMS.Models.AssignGradeViewModel
+
+<div class="mb-3">
+    <a asp-action="AssignGrade" asp-controller="Admin" class="btn btn-primary">Assign Grade</a>
+    <a asp-action="Login" asp-controller="Account" class="btn btn-info">Logout</a>
+</div>
+<h2 class="mb-4">Assign Grade</h2>
+<form asp-action="a" method="post" class="mb-4">
+    <div class="mb-3">
+        <label class="form-label">Student ID</label>
+        <select asp-for="EnrollmentID" class="form-select">
+            @foreach (var student in Model.Students)
+            {
+                <option value="@student.StudentID">@student.FullName - @student.PhoneNumber</option>
+            }
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Họ và tên</label>
+        <input asp-for="FacultyID" type="number" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Course ID</label>
+        <input asp-for="Score" type="number" class="form-control" min="0" max="100" required />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Tên khóa hoc</label>
+        <input asp-for="FacultyID" type="number" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Điểm </label>
+        <input asp-for="Score" type="number" class="form-control" min="0" max="100" required />
+    </div>
+  
+    <button type="submit" class="btn btn-primary">Ghi điểm</button>
+</form>
+
+<h3 class="mb-3">Danh sách điểm sing viên theo khóa học</h3>
+<table class="table table-bordered table-striped">
+    <thead class="table-dark text-center">
+        <tr>
+            <th>ID</th>
+            <th>Student ID</th>
+            <th>Họ và tên</th>
+            <th>Course ID</th>
+            <th>Tên khóa học</th>
+            <th>Điểm</th>
+            <th>Trạng Thái</th>
+        </tr>
+    </thead>
+   
+</table>
+
+
+</table>

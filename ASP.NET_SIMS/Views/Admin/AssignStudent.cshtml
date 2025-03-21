@@ -1,0 +1,71 @@
+﻿@model List<ASP.NET_SIMS.Models.StudentCourse>
+@{
+    ViewData["Title"] = "Gán Sinh Viên Vào Khóa Học";
+}
+
+
+<div class="mb-3">
+    <a asp-action="AssignStudent" asp-controller="Admin" class="btn btn-primary">Gán Course Sinh Viên</a>
+    <a asp-action="ManagerStudent" asp-controller="Admin" class="btn btn-secondary">Quản Lý Sinh Viên</a>
+    <a asp-action="ManagerCourse" asp-controller="Admin" class="btn btn-secondary">Quản Lý Khóa Học</a>
+    <a asp-action="Login" asp-controller="Account" class="btn btn-info">Logout</a>
+</div>
+
+<h2 class="mb-4">Gán Sinh Viên Vào Khóa Học</h2>
+<div class="container mt-4">
+
+    <!-- Form Gán Sinh Viên Vào Khóa Học -->
+    <form asp-action="AssignStudent" method="post" class="border p-4 rounded shadow bg-light">
+        <div class="mb-3">
+            <label for="studentId" class="form-label">Chọn Sinh Viên</label>
+            <select name="studentId" class="form-select" required>
+                @foreach (var student in ViewBag.Students)
+                {
+                    <option value="@student.StudentID">@student.FullName</option>
+                }
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label for="courseId" class="form-label">Chọn Khóa Học</label>
+            <select name="courseId" class="form-select" required>
+                @foreach (var course in ViewBag.Courses)
+                {
+                    <option value="@course.CourseID">@course.CourseName</option>
+                }
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-success mt-3">Gán Course Sinh Viên</button>
+    </form>
+
+    <hr class="my-4">
+
+    <h3 class="text-center mb-3">Danh Sách Sinh Viên Đã Gán Khóa Học</h3>
+
+    <table class="table table-striped table-bordered text-center">
+        <thead class="table-dark">
+            <tr>
+                <th>Sinh Viên</th>
+                <th>Khóa Học</th>
+                <th>Ngày Đăng Ký</th>
+                <th>Trạng Thái</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var enrollment in Model)
+            {
+                <tr>
+                    <td>@enrollment.Student.FullName</td>
+                    <td>@enrollment.Course.CourseName</td>
+                    <td>@enrollment.EnrollmentDate.ToString("dd/MM/yyyy")</td>
+                    <td>
+                        <span class="badge @(enrollment.Status == "Active" ? "bg-success" : "bg-warning")">
+                            @enrollment.Status
+                        </span>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
