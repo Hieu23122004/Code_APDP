@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\APDP\\ASP.NET_SIMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|d:\\apdp\\asp.net_sims\\asp.net_sims\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|solutionrelative:asp.net_sims\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|d:\\apdp\\asp.net_sims\\asp.net_sims\\repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|solutionrelative:asp.net_sims\\repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|d:\\apdp\\asp.net_sims\\asp.net_sims\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|solutionrelative:asp.net_sims\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|d:\\apdp\\asp.net_sims\\asp.net_sims\\repositories\\istudentcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|solutionrelative:asp.net_sims\\repositories\\istudentcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|d:\\apdp\\asp.net_sims\\asp.net_sims\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|solutionrelative:asp.net_sims\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|d:\\apdp\\asp.net_sims\\asp.net_sims\\repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|solutionrelative:asp.net_sims\\repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|d:\\apdp\\asp.net_sims\\asp.net_sims\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|solutionrelative:asp.net_sims\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|d:\\apdp\\asp.net_sims\\asp.net_sims\\repositories\\istudentcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|solutionrelative:asp.net_sims\\repositories\\istudentcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|d:\\apdp\\asp.net_sims\\asp.net_sims\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|d:\\apdp\\asp.net_sims\\asp.net_sims\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|solutionrelative:asp.net_sims\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|d:\\apdp\\asp.net_sims\\asp.net_sims\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|solutionrelative:asp.net_sims\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|d:\\apdp\\asp.net_sims\\asp.net_sims\\repositories\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -246,11 +246,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Controllers\\StudentController.cs",
@@ -258,18 +258,17 @@
               "RelativeToolTip": "ASP.NET_SIMS\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T07:15:24.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T07:15:24.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "GradeRepository.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\GradeRepository.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Repositories\\GradeRepository.cs",
               "ToolTip": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\GradeRepository.cs",
               "RelativeToolTip": "ASP.NET_SIMS\\Repositories\\GradeRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T04:27:32.574Z",
               "EditorCaption": ""
@@ -300,15 +299,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Controllers\\AccountController.cs",
               "RelativeToolTip": "ASP.NET_SIMS\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAQwDIAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T05:52:29.69Z"
+              "WhenOpened": "2025-03-18T05:52:29.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -325,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EnrollmentRepository.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\EnrollmentRepository.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Repositories\\EnrollmentRepository.cs",
@@ -333,12 +333,11 @@
               "RelativeToolTip": "ASP.NET_SIMS\\Repositories\\EnrollmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T06:12:49.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T06:12:49.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IStudentCourseRepository.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\IStudentCourseRepository.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Repositories\\IStudentCourseRepository.cs",
@@ -346,18 +345,17 @@
               "RelativeToolTip": "ASP.NET_SIMS\\Repositories\\IStudentCourseRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:46:00.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T15:46:00.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Controllers\\AdminController.cs",
               "ToolTip": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Controllers\\AdminController.cs",
               "RelativeToolTip": "ASP.NET_SIMS\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAYwHYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwHUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T05:52:44.542Z",
               "EditorCaption": ""
@@ -376,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Controllers\\HomeController.cs",
@@ -388,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FacultyController.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Controllers\\FacultyController.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Controllers\\FacultyController.cs",
