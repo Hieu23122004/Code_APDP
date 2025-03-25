@@ -4781,11 +4781,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Hieu (1)\\ASP.NET_SIMS\\ASP.NET_SIMS\\ASP.NET_SIMS.csproj",
+      "projectUniqueName": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\ASP.NET_SIMS.csproj",
       "projectName": "ASP.NET_SIMS",
-      "projectPath": "D:\\Hieu (1)\\ASP.NET_SIMS\\ASP.NET_SIMS\\ASP.NET_SIMS.csproj",
+      "projectPath": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\ASP.NET_SIMS.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Hieu (1)\\ASP.NET_SIMS\\ASP.NET_SIMS\\obj\\",
+      "outputPath": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

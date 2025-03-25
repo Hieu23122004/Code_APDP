@@ -116,5 +116,7 @@ namespace SIMS.Controllers
             _studentService.DeleteStudent(id);
             return RedirectToAction("ManagerStudent");
         }
+
+
     }
 }

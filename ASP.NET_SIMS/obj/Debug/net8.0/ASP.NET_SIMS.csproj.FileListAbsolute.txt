@@ -509,3 +509,8 @@ D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\refint\ASP.NET_SIMS.dll
 D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.pdb
 D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.genruntimeconfig.cache
 D:\Hieu (1)\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ref\ASP.NET_SIMS.dll
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\bin\Debug\net8.0\ASP.NET_SIMS.staticwebassets.endpoints.json
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\ASP.NET_SIMS.sourcelink.json
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET_SIMS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\APDP\ASP.NET_SIMS\ASP.NET_SIMS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
