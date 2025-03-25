@@ -117,6 +117,27 @@ namespace SIMS.Controllers
             return RedirectToAction("ManagerStudent");
         }
 
+        [HttpPost]
+        public IActionResult AddStudent(Student student)
+        {
+            _studentService.AddStudent(student);
+            return RedirectToAction("ManagerStudent");
+        }
+
+        [HttpPost]
+        public IActionResult EditStudent(Student student)
+        {
+            _studentService.UpdateStudent(student);
+            return RedirectToAction("ManagerStudent");
+        }
+
+        [HttpPost]
+        public IActionResult DeleteStudent(int id)
+        {
+            _studentService.DeleteStudent(id);
+            return RedirectToAction("ManagerStudent");
+        }
+
 
     }
 }
