@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\APDP\\ASP.NET_SIMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|d:\\apdp\\asp.net_sims\\asp.net_sims\\repositories\\ifacultyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|solutionrelative:asp.net_sims\\repositories\\ifacultyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|d:\\apdp\\asp.net_sims\\asp.net_sims\\repositories\\facultyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|solutionrelative:asp.net_sims\\repositories\\facultyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|d:\\apdp\\asp.net_sims\\asp.net_sims\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78D0C320-8D02-4E88-864B-9C13F04D86AD}|ASP.NET_SIMS\\ASP.NET_SIMS.csproj|solutionrelative:asp.net_sims\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -246,11 +254,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FacultyRepository.cs",
+              "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\FacultyRepository.cs",
+              "RelativeDocumentMoniker": "ASP.NET_SIMS\\Repositories\\FacultyRepository.cs",
+              "ToolTip": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\FacultyRepository.cs",
+              "RelativeToolTip": "ASP.NET_SIMS\\Repositories\\FacultyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:19:14.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IFacultyRepository.cs",
+              "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\IFacultyRepository.cs",
+              "RelativeDocumentMoniker": "ASP.NET_SIMS\\Repositories\\IFacultyRepository.cs",
+              "ToolTip": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\IFacultyRepository.cs",
+              "RelativeToolTip": "ASP.NET_SIMS\\Repositories\\IFacultyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:18:51.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GradeRepository.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\GradeRepository.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Repositories\\GradeRepository.cs",
@@ -262,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\appsettings.json",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\appsettings.json",
@@ -274,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "AssignStudent.cshtml",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Views\\Admin\\AssignStudent.cshtml",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Views\\Admin\\AssignStudent.cshtml",
@@ -286,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Controllers\\AccountController.cs",
@@ -298,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CourseRepository.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\CourseRepository.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Repositories\\CourseRepository.cs",
@@ -310,20 +344,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EnrollmentRepository.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\EnrollmentRepository.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Repositories\\EnrollmentRepository.cs",
               "ToolTip": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\EnrollmentRepository.cs",
               "RelativeToolTip": "ASP.NET_SIMS\\Repositories\\EnrollmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T06:12:49.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IStudentCourseRepository.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\IStudentCourseRepository.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Repositories\\IStudentCourseRepository.cs",
@@ -335,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Controllers\\AdminController.cs",
@@ -347,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Controllers\\StudentController.cs",
@@ -359,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IEnrollmentRepository.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\IEnrollmentRepository.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Repositories\\IEnrollmentRepository.cs",
@@ -371,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Controllers\\HomeController.cs",
@@ -383,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "FacultyController.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Controllers\\FacultyController.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Controllers\\FacultyController.cs",
@@ -395,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "MyCourse.cshtml",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Views\\Student\\MyCourse.cshtml",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Views\\Student\\MyCourse.cshtml",
@@ -407,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ManagerStudent.cshtml",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Views\\Admin\\ManagerStudent.cshtml",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Views\\Admin\\ManagerStudent.cshtml",
@@ -419,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Program.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Program.cs",
@@ -431,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "AssignGradeViewModel.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Models\\AssignGradeViewModel.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Models\\AssignGradeViewModel.cs",
@@ -443,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Grade.cshtml",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Views\\Student\\Grade.cshtml",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Views\\Student\\Grade.cshtml",
@@ -455,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "AssignGrade.cshtml",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Views\\Faculty\\AssignGrade.cshtml",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Views\\Faculty\\AssignGrade.cshtml",
@@ -467,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "IGradeService.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Services\\IGradeService.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Services\\IGradeService.cs",
@@ -479,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "20250320152043_Database.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Migrations\\20250320152043_Database.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Migrations\\20250320152043_Database.cs",
@@ -491,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "GradeService.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Services\\GradeService.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Services\\GradeService.cs",
@@ -503,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Grade.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Models\\Grade.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Models\\Grade.cs",
@@ -515,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\appsettings.Development.json",
@@ -527,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "IGradeRepository.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\IGradeRepository.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Repositories\\IGradeRepository.cs",
@@ -539,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Login.css",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\wwwroot\\css\\Login.css",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\wwwroot\\css\\Login.css",
@@ -551,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Models\\Student.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Models\\Student.cs",
@@ -563,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Views\\Account\\Register.cshtml",
@@ -575,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "ICourseService.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Services\\ICourseService.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Services\\ICourseService.cs",
@@ -587,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Views\\Home\\Privacy.cshtml",
@@ -599,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "ManagerCourse.cshtml",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Views\\Admin\\ManagerCourse.cshtml",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Views\\Admin\\ManagerCourse.cshtml",
@@ -611,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Models\\User.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Models\\User.cs",
@@ -623,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "IStudentService.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Services\\IStudentService.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Services\\IStudentService.cs",
@@ -635,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "StudentService.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Services\\StudentService.cs",
@@ -647,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "StudentCourse.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Models\\StudentCourse.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Models\\StudentCourse.cs",
@@ -659,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "StudentCourseRepository.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\StudentCourseRepository.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Repositories\\StudentCourseRepository.cs",
@@ -671,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Models\\Enrollment.cs",
@@ -683,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Data\\AppDbContext.cs",
@@ -695,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "CourseService.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Services\\CourseService.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Services\\CourseService.cs",
@@ -707,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Views\\Account\\Login.cshtml",
@@ -719,7 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Services\\IAuthService.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Services\\IAuthService.cs",
@@ -731,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Services\\AuthService.cs",
@@ -743,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "Facalty.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Models\\Facalty.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Models\\Facalty.cs",
@@ -755,7 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "Course.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Models\\Course.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Models\\Course.cs",
@@ -767,7 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "Admin.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Models\\Admin.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Models\\Admin.cs",
@@ -779,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "ICourseRepository.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\ICourseRepository.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Repositories\\ICourseRepository.cs",
@@ -791,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Models\\ErrorViewModel.cs",
@@ -803,7 +837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Repositories\\IUserRepository.cs",
@@ -815,7 +849,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Repositories\\UserRepository.cs",
@@ -827,7 +861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Views\\Home\\Index.cshtml",
@@ -839,7 +873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "20250319150044_Database.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Migrations\\20250319150044_Database.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Migrations\\20250319150044_Database.cs",
@@ -850,7 +884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "20250319100912_UpdateGradesRelationship.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Migrations\\20250319100912_UpdateGradesRelationship.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Migrations\\20250319100912_UpdateGradesRelationship.cs",
@@ -861,7 +895,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Views\\Shared\\Error.cshtml",
@@ -873,7 +907,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Properties\\launchSettings.json",
@@ -885,7 +919,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "20250319072719_AddCoursesTable.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Migrations\\20250319072719_AddCoursesTable.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Migrations\\20250319072719_AddCoursesTable.cs",
@@ -896,7 +930,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "20250319073359_AddCoursesTableAgain.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Migrations\\20250319073359_AddCoursesTableAgain.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Migrations\\20250319073359_AddCoursesTableAgain.cs",
@@ -907,7 +941,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "20250319073540_Database.cs",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Migrations\\20250319073540_Database.cs",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Migrations\\20250319073540_Database.cs",
@@ -918,7 +952,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Views\\Shared\\_Layout.cshtml",
@@ -930,7 +964,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -942,7 +976,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "site.css",
               "DocumentMoniker": "D:\\APDP\\ASP.NET_SIMS\\ASP.NET_SIMS\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ASP.NET_SIMS\\wwwroot\\css\\site.css",
