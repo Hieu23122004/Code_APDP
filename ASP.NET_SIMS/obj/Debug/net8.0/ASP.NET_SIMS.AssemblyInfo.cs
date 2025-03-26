@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.NET_SIMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56ea1a3b667749acb82dfbca6b881eabbe415885")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63aba769fdc85497741454b47c91f69b26331bb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.NET_SIMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.NET_SIMS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
