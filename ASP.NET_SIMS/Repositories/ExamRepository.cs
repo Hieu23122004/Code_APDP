@@ -1,6 +1,6 @@
 ﻿namespace ASP.NET_SIMS.Repositories
 {
-    public class IFacultyRepository
+    public class ExamRepository
     {
     }
 }
