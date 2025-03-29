@@ -123,24 +123,6 @@ namespace ASP.NET_SIMS.Migrations
                     b.ToTable("Users");
                 });
 
-            modelBuilder.Entity("SIMS.Models.Admin", b =>
-                {
-                    b.Property<int>("AdminID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AdminID"));
-
-                    b.Property<int>("UserID")
-                        .HasColumnType("int");
-
-                    b.HasKey("AdminID");
-
-                    b.HasIndex("UserID");
-
-                    b.ToTable("Admins");
-                });
-
             modelBuilder.Entity("SIMS.Models.Course", b =>
                 {
                     b.Property<int>("CourseID")
@@ -175,32 +157,6 @@ namespace ASP.NET_SIMS.Migrations
                     b.HasKey("CourseID");
 
                     b.ToTable("Courses");
-                });
-
-            modelBuilder.Entity("SIMS.Models.Enrollment", b =>
-                {
-                    b.Property<int>("EnrollmentID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("EnrollmentID"));
-
-                    b.Property<int>("CourseID")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("EnrollmentDate")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int>("StudentID")
-                        .HasColumnType("int");
-
-                    b.HasKey("EnrollmentID");
-
-                    b.HasIndex("CourseID");
-
-                    b.HasIndex("StudentID");
-
-                    b.ToTable("Enrollments");
                 });
 
             modelBuilder.Entity("SIMS.Models.Faculty", b =>
@@ -255,8 +211,6 @@ namespace ASP.NET_SIMS.Migrations
 
                     b.HasKey("GradeID");
 
-                    b.HasIndex("EnrollmentID");
-
                     b.HasIndex("FacultyID");
 
                     b.ToTable("Grades");
@@ -292,36 +246,6 @@ namespace ASP.NET_SIMS.Migrations
                     b.Navigation("Student");
                 });
 
-            modelBuilder.Entity("SIMS.Models.Admin", b =>
-                {
-                    b.HasOne("ASP.NET_SIMS.Models.User", "User")
-                        .WithMany()
-                        .HasForeignKey("UserID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("User");
-                });
-
-            modelBuilder.Entity("SIMS.Models.Enrollment", b =>
-                {
-                    b.HasOne("SIMS.Models.Course", "Course")
-                        .WithMany()
-                        .HasForeignKey("CourseID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("ASP.NET_SIMS.Models.Student", "Student")
-                        .WithMany()
-                        .HasForeignKey("StudentID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Course");
-
-                    b.Navigation("Student");
-                });
-
             modelBuilder.Entity("SIMS.Models.Faculty", b =>
                 {
                     b.HasOne("ASP.NET_SIMS.Models.User", "User")
@@ -335,17 +259,9 @@ namespace ASP.NET_SIMS.Migrations
 
             modelBuilder.Entity("SIMS.Models.Grade", b =>
                 {
-                    b.HasOne("SIMS.Models.Enrollment", "Enrollment")
-                        .WithMany("Grades")
-                        .HasForeignKey("EnrollmentID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.HasOne("SIMS.Models.Faculty", "Faculty")
                         .WithMany()
                         .HasForeignKey("FacultyID");
-
-                    b.Navigation("Enrollment");
 
                     b.Navigation("Faculty");
                 });
@@ -358,11 +274,6 @@ namespace ASP.NET_SIMS.Migrations
             modelBuilder.Entity("SIMS.Models.Course", b =>
                 {
                     b.Navigation("StudentCourses");
-                });
-
-            modelBuilder.Entity("SIMS.Models.Enrollment", b =>
-                {
-                    b.Navigation("Grades");
                 });
 #pragma warning restore 612, 618
         }

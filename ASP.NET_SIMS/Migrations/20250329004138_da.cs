@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace ASP.NET_SIMS.Migrations
 {
     /// <inheritdoc />
-    public partial class Database : Migration
+    public partial class da : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -44,25 +44,6 @@ namespace ASP.NET_SIMS.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Users", x => x.Id);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "Admins",
-                columns: table => new
-                {
-                    AdminID = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    UserID = table.Column<int>(type: "int", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Admins", x => x.AdminID);
-                    table.ForeignKey(
-                        name: "FK_Admins_Users_UserID",
-                        column: x => x.UserID,
-                        principalTable: "Users",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateTable(
@@ -112,30 +93,23 @@ namespace ASP.NET_SIMS.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Enrollments",
+                name: "Grades",
                 columns: table => new
                 {
-                    EnrollmentID = table.Column<int>(type: "int", nullable: false)
+                    GradeID = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    StudentID = table.Column<int>(type: "int", nullable: false),
-                    CourseID = table.Column<int>(type: "int", nullable: false),
-                    EnrollmentDate = table.Column<DateTime>(type: "datetime2", nullable: false)
+                    EnrollmentID = table.Column<int>(type: "int", nullable: false),
+                    FacultyID = table.Column<int>(type: "int", nullable: true),
+                    Score = table.Column<double>(type: "float", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Enrollments", x => x.EnrollmentID);
+                    table.PrimaryKey("PK_Grades", x => x.GradeID);
                     table.ForeignKey(
-                        name: "FK_Enrollments_Courses_CourseID",
-                        column: x => x.CourseID,
-                        principalTable: "Courses",
-                        principalColumn: "CourseID",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_Enrollments_Students_StudentID",
-                        column: x => x.StudentID,
-                        principalTable: "Students",
-                        principalColumn: "StudentID",
-                        onDelete: ReferentialAction.Cascade);
+                        name: "FK_Grades_Faculties_FacultyID",
+                        column: x => x.FacultyID,
+                        principalTable: "Faculties",
+                        principalColumn: "FacultyID");
                 });
 
             migrationBuilder.CreateTable(
@@ -166,56 +140,10 @@ namespace ASP.NET_SIMS.Migrations
                         onDelete: ReferentialAction.Cascade);
                 });
 
-            migrationBuilder.CreateTable(
-                name: "Grades",
-                columns: table => new
-                {
-                    GradeID = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    EnrollmentID = table.Column<int>(type: "int", nullable: false),
-                    FacultyID = table.Column<int>(type: "int", nullable: true),
-                    Score = table.Column<double>(type: "float", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Grades", x => x.GradeID);
-                    table.ForeignKey(
-                        name: "FK_Grades_Enrollments_EnrollmentID",
-                        column: x => x.EnrollmentID,
-                        principalTable: "Enrollments",
-                        principalColumn: "EnrollmentID",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_Grades_Faculties_FacultyID",
-                        column: x => x.FacultyID,
-                        principalTable: "Faculties",
-                        principalColumn: "FacultyID");
-                });
-
-            migrationBuilder.CreateIndex(
-                name: "IX_Admins_UserID",
-                table: "Admins",
-                column: "UserID");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_Enrollments_CourseID",
-                table: "Enrollments",
-                column: "CourseID");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_Enrollments_StudentID",
-                table: "Enrollments",
-                column: "StudentID");
-
             migrationBuilder.CreateIndex(
                 name: "IX_Faculties_UserID",
                 table: "Faculties",
                 column: "UserID");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_Grades_EnrollmentID",
-                table: "Grades",
-                column: "EnrollmentID");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Grades_FacultyID",
@@ -242,16 +170,10 @@ namespace ASP.NET_SIMS.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Admins");
-
-            migrationBuilder.DropTable(
                 name: "Grades");
 
             migrationBuilder.DropTable(
                 name: "StudentCourses");
-
-            migrationBuilder.DropTable(
-                name: "Enrollments");
 
             migrationBuilder.DropTable(
                 name: "Faculties");

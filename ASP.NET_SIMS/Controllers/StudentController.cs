@@ -17,7 +17,7 @@ namespace SIMS.Controllers
         }
 
         // Xem khóa học của sinh viên
-        public async Task<IActionResult> MyCourse()
+        public async Task<IActionResult>MyCourse()
         {
             var userId = int.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier));
             Console.WriteLine($"Debug: UserID from Claims - {userId}");

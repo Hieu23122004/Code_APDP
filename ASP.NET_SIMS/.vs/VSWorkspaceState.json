@@ -4,8 +4,11 @@
     "\\Controllers",
     "\\Data",
     "\\Models",
-    "\\Repositories"
+    "\\Repositories",
+    "\\Views\\Account",
+    "\\Views\\Admin",
+    "\\Views\\Student"
   ],
-  "SelectedNode": "\\Controllers\\HomeController.cs",
+  "SelectedNode": "\\Controllers\\AdminController.cs",
   "PreviewInSolutionExplorer": false
 }

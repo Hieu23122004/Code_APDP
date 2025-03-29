@@ -8,9 +8,9 @@
 
 <div class="mb-3">
     <a asp-action="ManagerCourse" asp-controller="Admin" class="btn btn-primary">Quản Lý Khóa Học</a>
-    <a asp-action="AssignStudent" asp-controller="Admin" class="btn btn-secondary">Gán Course Sinh Viên</a>
-    <a asp-action="ManagerStudent" asp-controller="Admin" class="btn btn-secondary">Quản Lý Sinh Viên</a>
-    <a asp-action="Login" asp-controller="Account" class="btn btn-info">Logout</a>
+    <a asp-action="ManagerStudent" asp-controller="Admin" class="btn btn-primary">Quản Lý Sinh Viên</a>
+    <a asp-action="AssignStudent" asp-controller="Admin" class="btn btn-primary">Gán Course Sinh Viên</a>
+    <a asp-action="Login" asp-controller="Account" class="btn btn-primary">Logout</a>
 </div>
 <h2 class="mb-4">Quản lý Khóa Học</h2>
 <!-- Form thêm khóa học -->
@@ -18,7 +18,7 @@
     <div class="card-header bg-primary text-white">Thêm Khóa Học</div>
     <div class="card-body">
         <form id="formCourse" method="post" action="/Admin/AddCourse">
-            <div class="row g-3">
+            <div class="row ">
                 <div class="col-md-4">
                     <label class="form-label">Tên Khóa Học</label>
                     <input type="text" name="CourseName" class="form-control" required />

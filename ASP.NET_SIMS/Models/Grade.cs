@@ -10,7 +10,6 @@ namespace SIMS.Models
 
         [ForeignKey("Enrollment")]
         public int EnrollmentID { get; set; }
-        public virtual Enrollment Enrollment { get; set; }
 
         [ForeignKey("Faculty")]
         public int? FacultyID { get; set; } // Nullable để tránh lỗi

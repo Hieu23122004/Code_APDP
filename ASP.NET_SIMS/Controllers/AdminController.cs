@@ -99,7 +99,20 @@ namespace SIMS.Controllers
         [HttpPost]
         public IActionResult AddStudent(Student student)
         {
-            _studentService.AddStudent(student);
+            var user = _context.Users
+                .Where(u => u.Role == "Student" && !_context.Students.Any(s => s.UserID == u.Id))
+                .FirstOrDefault();
+
+            if (user == null)
+            {
+                ModelState.AddModelError("", "Không có User hợp lệ để thêm sinh viên.");
+                return View(student);
+            }
+
+            student.UserID = user.Id;
+            _context.Students.Add(student);
+            _context.SaveChanges();
+
             return RedirectToAction("ManagerStudent");
         }
 

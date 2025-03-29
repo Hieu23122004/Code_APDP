@@ -5,18 +5,19 @@
 
 
 <div class="mb-3">
+    <a asp-action="ManagerCourse" asp-controller="Admin" class="btn btn-primary">Quản Lý Khóa Học</a>
+    <a asp-action="ManagerStudent" asp-controller="Admin" class="btn btn-primary">Quản Lý Sinh Viên</a>
     <a asp-action="AssignStudent" asp-controller="Admin" class="btn btn-primary">Gán Course Sinh Viên</a>
-    <a asp-action="ManagerStudent" asp-controller="Admin" class="btn btn-secondary">Quản Lý Sinh Viên</a>
-    <a asp-action="ManagerCourse" asp-controller="Admin" class="btn btn-secondary">Quản Lý Khóa Học</a>
-    <a asp-action="Login" asp-controller="Account" class="btn btn-info">Logout</a>
+    <a asp-action="Login" asp-controller="Account" class="btn btn-primary">Logout</a>
 </div>
 
 <h2 class="mb-4">Gán Sinh Viên Vào Khóa Học</h2>
-<div class="container mt-4">
-
+<div class="container ">
+    <div class="card-header bg-primary text-white">Gán Khóa Học</div>
     <!-- Form Gán Sinh Viên Vào Khóa Học -->
     <form asp-action="AssignStudent" method="post" class="border p-4 rounded shadow bg-light">
-        <div class="mb-3">
+        <div class="row">
+        <div class="col-md-6">
             <label for="studentId" class="form-label">Chọn Sinh Viên</label>
             <select name="studentId" class="form-select" required>
                 @foreach (var student in ViewBag.Students)
@@ -26,7 +27,7 @@
             </select>
         </div>
 
-        <div class="mb-3">
+        <div class="col-md-6">
             <label for="courseId" class="form-label">Chọn Khóa Học</label>
             <select name="courseId" class="form-select" required>
                 @foreach (var course in ViewBag.Courses)
@@ -34,6 +35,7 @@
                     <option value="@course.CourseID">@course.CourseName</option>
                 }
             </select>
+        </div>
         </div>
 
         <button type="submit" class="btn btn-success mt-3">Gán Course Sinh Viên</button>
@@ -43,8 +45,9 @@
 
     <h3 class="text-center mb-3">Danh Sách Sinh Viên Đã Gán Khóa Học</h3>
 
-    <table class="table table-striped table-bordered text-center">
+    <table class="table table-striped table-hover">
         <thead class="table-dark">
+
             <tr>
                 <th>Sinh Viên</th>
                 <th>Khóa Học</th>

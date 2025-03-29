@@ -11,8 +11,6 @@ public class GradeRepository : IGradeRepository
         _context = context;
     }
 
-  
-
     Task IGradeRepository.AddGrade(Grade grade)
     {
         throw new NotImplementedException();
